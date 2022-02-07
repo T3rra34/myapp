@@ -1,0 +1,30 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "hehe",
+  "main": "index.ejs",
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T3rra34/myapp.git"
+  },
+  "keywords": [
+    "hehe"
+  ],
+  "author": "T3rra34",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T3rra34/myapp/issues"
+  },
+  "homepage": "https://github.com/T3rra34/myapp#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "njs": "^0.0.2",
+    "node-fetch": "^2.6.1",
+    "path": "^0.12.7"
+  }
+}
